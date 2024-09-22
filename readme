@@ -1,3 +1,6 @@
+This is my solution of roadmap.sh basic backend project ( https://roadmap.sh/projects/task-tracker )
+Most of my code had written by chat.gpt with some error fixing by my self.
+
 # Adding a new task
 task-cli add "Buy groceries"
 # Output: Task added successfully (ID: 1)
